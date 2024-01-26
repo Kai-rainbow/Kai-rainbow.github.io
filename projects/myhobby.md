@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/DSC_0165.JPG
 title: "my hobby"
 date: 2024-01-17
 published: true
