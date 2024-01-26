@@ -20,7 +20,7 @@ One of my interests is taking pictures. I met a camera when I was in high school
        src="../img/IMG_4911.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/IMG7265.JPG" 
+       src="../img/IMG_7265.JPG" 
        class="img-thumbnail" >
 </div>
 
