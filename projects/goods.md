@@ -7,7 +7,7 @@ date: 2024-01-26
 published: true
 labels:
   - goods
-summery:"I sold my own goods"
+summery: "I sold my own goods"
 ---
 ## What do you think when you hear about my own good?
 
