@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Osechi-image.jpg
 title: "Osechi"
 date: 2024-01-26
 published: true
