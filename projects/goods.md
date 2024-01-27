@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/Osechi-image.jpg
-title: "Goods by my self"
+image: img/anime-goods-image.png
+title: "Goods by myself"
 date: 2024-01-26
 published: true
 labels:
@@ -16,9 +16,9 @@ summery:"I sold my own goods"
  
 <div class="text-center p-4">
   <img width="200px" 
-       src="../img/IMG_2118.jpg" 
+       src="../img/acrylic-stand-image.jpg" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/IMG_3370.jpg" 
+       src="../img/rubber-strap-image.jpeg" 
        class="img-thumbnail" >
 </div>
