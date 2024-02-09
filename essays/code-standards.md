@@ -28,9 +28,9 @@ ESlint with Intellij is satisfying in my opinion, It shows me when I miss the co
 It is a bad point that I feel while I use it. On the other hand, It is very useful to find mistakes and it  suggests how to fix them. 
 <div class="text-center p-4">
   <img width="200px" 
-       src="../img/errorexample.jpg" 
+       src="../img/errorexample.png" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../img/errorexample2.jpeg" 
+       src="../img/errorexample2.png" 
        class="img-thumbnail" >
 </div>
