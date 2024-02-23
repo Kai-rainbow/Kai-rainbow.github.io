@@ -25,7 +25,7 @@ First of all, there are things that can be omitted or simplified by using Bootst
 
 <div class="text-center p-4">
   <img width="200px" 
-       src="../img/errorexample.png" 
+       src="../img/Islandsnow.png" 
        class="img-thumbnail" >
 </div>
 
