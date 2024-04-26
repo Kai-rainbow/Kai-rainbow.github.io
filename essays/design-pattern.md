@@ -13,7 +13,9 @@ labels:
 ## get stuck in coding?
 
 When I begin to code something, I always face how to write first. I think people who work with coding a lot are easy to begin coding but I have not code a lot so It takes a long time for that.
-According to The book, *Design Patterns: Elements of Reusable Object-Oriented Software*, There are 4 people called Gang of Four. and They said >“solve specific design problems and make object-oriented designs more flexible, elegant, and ultimately reusable. They help designers reuse successful designs by basing new designs on prior experience. A designer who is familiar with such patterns can apply them immediately to design problems without having to rediscover them.” To summrize it, People who can solve many difficulte problems, arrive at some kind of similar answer. These are design patterns.
+According to The book, *Design Patterns: Elements of Reusable Object-Oriented Software*, There are 4 people called Gang of Four. and They said 
+> solve specific design problems and make object-oriented designs more flexible, elegant, and ultimately reusable. They help designers reuse successful designs by basing new designs on prior experience. A designer who is familiar with such patterns can apply them immediately to design problems without having to rediscover them.
+> To summrize it, People who can solve many difficulte problems, arrive at some kind of similar answer. These are design patterns.
 
 ## three type of pattern
 
