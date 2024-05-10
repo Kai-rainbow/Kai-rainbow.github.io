@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/lost-and-found-logo.png
 title: "Manoa reclaim"
-date: 2024
+date: 2024-05-10
 published: True
 labels:
   - Javascript
