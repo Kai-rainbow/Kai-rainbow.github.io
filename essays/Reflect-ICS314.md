@@ -13,11 +13,11 @@ labels:
 
 Through this class, I can get more knowledge about programming. Especially, I wanted to learn more about application development and new programming languages. I think it is also a good experience to build webpages. A few more details about what I learned
 
- ### I. Coding standard
+### I. Coding standard
 
 While in this semester, I learned One of most important thing for programming is Coding Standard.  This is a kind of rule that is very important for programming, and learning it has good aspects such as efficiency in future projects and readability of my own code etc. However, I still feel that I have not fully understood and learned what was raised in class, so I would like to deepen my understanding more in future classes and through individual study.
 
-###  II. User interface Framework
+### II. User interface Framework
 
 This learning experience is also very important for me. Because my dream is making something that makes this world a more comfortable place to live in. To my dream, I think the creation of a user interface is one of the most important tasks.
 
