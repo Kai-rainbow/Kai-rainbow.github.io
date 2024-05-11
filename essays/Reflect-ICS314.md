@@ -11,7 +11,7 @@ labels:
 *E37: Reflect on Software Engineering*--
 
 
-	Through this class, I can get more knowledge about programming. Especially, I wanted to learn more about application development and new programming languages. I think it is also a good experience to build webpages. A few more details about what I learned
+Through this class, I can get more knowledge about programming. Especially, I wanted to learn more about application development and new programming languages. I think it is also a good experience to build webpages. A few more details about what I learned
 
   I. Coding standard
     While in this semester, I learned One of most important thing for programming is Coding Standard.  This is a kind of rule that is very important for programming, and learning it has good aspects such as efficiency in future projects and readability of my own code etc. However, I still feel that I have not fully understood and learned what was raised in class, so I would like to deepen my understanding more in future classes and through individual study.
